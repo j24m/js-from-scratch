@@ -31,8 +31,8 @@ console.log(firstName);
 
 // not recommended to use capital letter at first word.
 let Sum = "hello";
-let sum = hello;
-console.log(Sum);
+let sum = "hello";
+console.log(sum);
 
 let myFirstJob ="programmer";
 let myCurrentJob = "teacher";
