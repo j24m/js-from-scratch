@@ -25,7 +25,7 @@
 // const isIsland = 'Asia';
 // console.log(isIsland);
 // console.log(typeof isIsland);
-// const language;
+// let language;
 // console.log(language);
 
 ///////////////////////////////
@@ -34,7 +34,6 @@
 //let,const and var
 
 const language = "hindi";
-
 
 ///////////////////////////////
 
