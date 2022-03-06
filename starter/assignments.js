@@ -3,18 +3,18 @@
 ///////////////////////////////
 // Variables and Values
 
-var country ="India";
-console.log(country);
-console.log(typeof country);
+// const country ="India";
+// console.log(country);
+// console.log(typeof country);
 
-var continent = "Asia";
-console.log(continent);
-console.log(typeof continent);
+// const continent = "Asia";
+// console.log(continent);
+// console.log(typeof continent);
 
 
-var population = 1.366 + " billion";
-console.log(population);
-console.log(typeof population);
+// let population = 1.366 + " billion";
+// console.log(population);
+// console.log(typeof population);
 
 ///////////////////////////////
 
@@ -22,10 +22,19 @@ console.log(typeof population);
 ///////////////////////////////
 //Datatypes
 
-let isIsland = 'Asia';
-console.log(isIsland);
-console.log(typeof isIsland);
-let language;
-console.log(language);
+// const isIsland = 'Asia';
+// console.log(isIsland);
+// console.log(typeof isIsland);
+// const language;
+// console.log(language);
 
 ///////////////////////////////
+
+///////////////////////////////
+//let,const and var
+
+const language = "hindi";
+
+
+///////////////////////////////
+

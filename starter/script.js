@@ -43,31 +43,61 @@
 ////////////////////////////////
 // Datatypes
 
-let javascriptIsFun = true;
-console.log(javascriptIsFun);
+// let javascriptIsFun = true;
+// console.log(javascriptIsFun);
 
-console.log(typeof true); 
-console.log(typeof javascriptIsFun); 
-console.log(typeof 23); 
-console.log(typeof "hello");
+// console.log(typeof true); 
+// console.log(typeof javascriptIsFun); 
+// console.log(typeof 23); 
+// console.log(typeof "hello");
 
-// Dynamic typing.
-javascriptIsFun = 'YES!';
-console.log(javascriptIsFun);
-console.log(typeof javascriptIsFun); 
+// // Dynamic typing.
+// javascriptIsFun = 'YES!';
+// console.log(javascriptIsFun);
+// console.log(typeof javascriptIsFun); 
 
 // undefined.
-let year;
-console.log(year);  
-console.log(typeof year);
+// let year;
+// console.log(year);  
+// console.log(typeof year);
 // Whenever we declare an empty variable both value and type of that variable are undefined.
 // We can also reassign a value to undefined variables.
 
-year = 1991;
-console.log(year);
-console.log(typeof year);
+// year = 1991;
+// console.log(year);
+// console.log(typeof year);
 
-console.log(typeof null);
+// console.log(typeof null);
 // This is a bug in javascript, the output should not be object, but null.
 
+////////////////////////////////
+
+////////////////////////////////
+//let, const and var
+
+// let age = 30;
+// age = 31;
+// here it is called reassigning a value to a variable which is also called mutating.
+
+// const birthYear = 1998;
+// console.log(birthYear);
+// birthYear = 1999;
+// Uncaught TypeError: Assignment to constant variable at script.js:84:11
+// const declaration is immutable.
+
+// var job = "prgrammer";
+// console.log(job);
+// job = "teacher";
+// console.log(job);
+// var is immutable. 
+
+//not declaring a variable with let const or var.
+// lastName = "Schmedtman";
+// console.log(lastName);
+// we did not use let, const or var in this case but this is actually a pretty terrible idea.
+// this doesn't create a variable in scope, instead js will create a property on the global object.
+
+////////////////////////////////
+
+////////////////////////////////
 ////////////////////////////////
