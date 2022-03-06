@@ -99,5 +99,38 @@
 
 ////////////////////////////////
 
-////////////////////////////////
-////////////////////////////////
+///////////////////////////////
+//Basic Operators
+
+// const currentYear = 2022;
+// const myAge = currentYear - 1998;
+// const sarahAge = currentYear - 2020;
+// console.log(myAge, sarahAge);
+
+// console.log( myAge * 2, myAge/10 , 2**3);
+
+// const firstName = "Jyotsna";
+// const lastName = "Mehta";
+// console.log(firstName + " " + lastName) ;
+
+// let x = 10+5;
+// x+=10;
+//x=x+10 => 15+10 => 25
+// x*= 4;
+//x=x*4 => 25*4 => 100
+// console.log(x);
+// x++;
+// console.log(x);
+// x--;
+// console.log(x);
+// x--;
+// console.log(x);
+
+//Comparision operators.
+
+// console.log(myAge > sarahAge); // >, <, >=, <=
+// console.log(sarahAge>=18);
+//true
+
+// console.log(currentYear-1998 > currentYear-2020);
+///////////////////////////////

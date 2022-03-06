@@ -30,10 +30,26 @@
 
 ///////////////////////////////
 
+
 ///////////////////////////////
 //let,const and var
 
-const language = "hindi";
+// const language = "hindi";
 
+///////////////////////////////
+
+
+///////////////////////////////
+//Basic Operators
+// const country = "India";
+// const continent = "Asia";
+// let population = 100
+// console.log(100/2);
+// population++;
+// console.log(population);
+// console.log(100>6);
+// console.log(100<33);
+// const description = country + " is in " + continent + " and it's population is " + population + " million " + " out of which " + population/2 + " million pople speak in language " + language; 
+// console.log(description);
 ///////////////////////////////
 
