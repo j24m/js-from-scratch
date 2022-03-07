@@ -171,3 +171,13 @@
 // with multiple
 // lines.`);
 ///////////////////////////////
+
+///////////////////////////////
+//Taking Decisions: If/else statements
+// const age = 17;
+// if(age >= 18) console.log("You are eligible to vote.");
+// else {
+//     const yearsLeft = 18 - age;
+//     console.log(`You are not eligible to vote and you will be eligible after ${yearsLeft} year.`);
+// } 
+///////////////////////////////

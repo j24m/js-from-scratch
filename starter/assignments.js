@@ -99,3 +99,14 @@
 // console.log(description);
 ///////////////////////////////
 
+
+///////////////////////////////
+//Taking Decisions: If/else statements
+ 
+// const population = 139;
+// if (population >33) console.log("Population is above average.")
+// else if( population < 22) console.log("Population is below average.");
+
+///////////////////////////////
+
+
