@@ -85,3 +85,17 @@
 
 ///////////////////////////////
 
+///////////////////////////////
+//Template literals
+// const myName = "Jyotsna";
+// const myAge = 24;
+// const identity = "Web developer";
+// const continent = "Asia";
+// const country = "India";
+// let population = 1.39;
+// const language = "Hindi"
+// const description = `Hi I am ${myName} , a ${myAge} years old ${identity} from ${country} which has a population of ${population} billion.
+// India is in the continent ${continent} and we speak the language ${language}.`
+// console.log(description);
+///////////////////////////////
+

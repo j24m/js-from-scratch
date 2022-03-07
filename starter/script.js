@@ -151,3 +151,23 @@
 // console.log(myAge, sarahAge, averageAge);
 ///////////////////////////////
 
+///////////////////////////////
+// Template Literals
+
+// const firstName = 'Jonas';
+// const job = 'teacher';
+// const birthYear = 1991;
+// const year = 2022; 
+// const jonas = `I'm ${firstName} and I'm a ${year-birthYear} years old  ${job}`;
+// console.log(jonas);
+
+// console.log(`Just a regular string...`);
+
+//Multi line string.
+// console.log("String with \n\
+// multiple \n\
+// lines.");
+// console.log(`String
+// with multiple
+// lines.`);
+///////////////////////////////
