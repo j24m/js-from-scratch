@@ -210,20 +210,45 @@
 ///////////////////////////////
 //Truthy and falsy values
 
-console.log(Boolean(0));
-console.log(Boolean(undefined));
-console.log(Boolean('Jonas'));
-console.log(Boolean({}));
-console.log(Boolean(''));
-console.log(Boolean(null));
-console.log(Boolean(NaN));
+// console.log(Boolean(0));
+// console.log(Boolean(undefined));
+// console.log(Boolean('Jonas'));
+// console.log(Boolean({}));
+// console.log(Boolean(''));
+// console.log(Boolean(null));
+// console.log(Boolean(NaN));
 
-let money = 100;
-if(money) console.log(`Don't spend it all.`)
-else console.log(`You should get a job.`);
+// let money = 100;
+// if(money) console.log(`Don't spend it all.`)
+// else console.log(`You should get a job.`);
 
-let height;
-if(height) console.log("height is defined.");
-else console.log("height is undefined.");
+// let height;
+// if(height) console.log("height is defined.");
+// else console.log("height is undefined.");
 
 ///////////////////////////////
+
+
+///////////////////////////////
+//Equality operators
+
+// const age = 18;
+// if(age == 18) console.log("You just became an adult,loose operator");
+
+// if(age === 18) console.log("You just became an adult,strict operator");
+
+// const fav = Number(prompt("what is your fav no.?"));
+// console.log(fav);
+// console.log(typeof fav);
+
+// if(fav == 23) console.log("23 is cool.");
+
+// if( fav === 23) console.log("23 is cooooooool.");
+
+// else if (fav === 7 ) console.log("7 is also cool");
+
+// else if( fav !== 23) console.log("why not 23?");
+
+// else console.log("number is not 23 or 7.");
+
+/////////////////////////////////
