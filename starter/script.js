@@ -135,5 +135,19 @@
 // console.log(currentYear-1998 > currentYear-2020);
 ///////////////////////////////
 
+///////////////////////////////
+// Operator precedence
+// const now = 2022;
+// const myAge = now - 1998;
+// const sarahAge = now - 2000;
+// console.log(now - 1998 > now - 2000);
+// console.log(25 - 10 - 5);
 
+// let x,y;
+// x=y= 25-10-5;
+// console.log(x,y);
+
+// const averageAge = (myAge + sarahAge) / 2;
+// console.log(myAge, sarahAge, averageAge);
+///////////////////////////////
 
